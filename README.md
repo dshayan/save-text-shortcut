@@ -20,7 +20,7 @@ The solution leverages Apple Shortcuts with no additional dependencies. The main
 
 ## Resources
 
-* [Download Shortcut](LINK)
+* [Download Shortcut](https://www.icloud.com/shortcuts/e751d685e8b5467ca6fd0a9e1bc5b4a5)
 * View Demo:
 
 https://github.com/user-attachments/assets/66edd556-2ef8-4894-aaa2-454104d6c168
