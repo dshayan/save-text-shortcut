@@ -20,10 +20,10 @@ The solution leverages Apple Shortcuts with no additional dependencies. The main
 
 ## Resources
 
-* [Download Shortcut](https://www.icloud.com/shortcuts/e751d685e8b5467ca6fd0a9e1bc5b4a5)
+* [Download Shortcut](https://www.icloud.com/shortcuts/4ff54b747fe847ed95d1613f470a8c83)
 * View Demo:
 
-https://github.com/user-attachments/assets/66edd556-2ef8-4894-aaa2-454104d6c168
+https://github.com/user-attachments/assets/7e04aed5-ecfb-4c72-a986-0eef9b0bac41
 
 ## Customization
 
