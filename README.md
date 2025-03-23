@@ -23,7 +23,7 @@ The solution leverages Apple Shortcuts with no additional dependencies. The main
 * [Download Shortcut](https://www.icloud.com/shortcuts/4ff54b747fe847ed95d1613f470a8c83)
 * View Demo:
 
-https://github.com/user-attachments/assets/7e04aed5-ecfb-4c72-a986-0eef9b0bac41
+https://github.com/user-attachments/assets/c1a071e3-c8b6-4707-ba4a-b878f0ac67f9
 
 ## Customization
 
